@@ -79,4 +79,4 @@ public class Restaurant {
         return totalAmount;
     }
 
-}
+}//ADDED METHOD TO DISPLAY ORDER VALUE
