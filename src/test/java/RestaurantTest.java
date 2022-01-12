@@ -91,6 +91,7 @@ class RestaurantTest {
     }
 
     //<<<<<<<<<<<<<<<<<<<<<<<MENU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    //tests added
     @Test
     public void return_order_value_of_selected_menu() {
         List<String> menu = new ArrayList<String>();
